@@ -1,0 +1,46 @@
+body {
+  font-family: Consolas, sans-serif;
+  background-color: #2e2e2e;
+}
+
+header {
+  background-color: #585858;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  color: #ffffff;
+  text-shadow: 0px 0px 5px #000000;
+}
+
+a {
+  color: #0066ff;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50pt;
+}
+
+h2 {
+  font-size: 35pt;
+}
+
+h3 {
+  font-size: 25pt;
+}
+
+h4 {
+  font-size: 20pt;
+}
