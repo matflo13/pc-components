@@ -54,3 +54,8 @@ dt {
   font-size: 20pt;
   font-family: Copperplate Gothic;
 }
+
+img {
+  border: #ffffff, 5px;
+  box-shadow: #000000, 0px, 0px, 10px;
+}
