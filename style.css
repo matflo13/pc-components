@@ -56,6 +56,8 @@ dt {
 }
 
 img {
-  border: #ffffff, 5px;
-  box-shadow: #000000, 0px, 0px, 10px;
+  display: block;
+  margin: auto;
+  border: 5px solid white;
+  box-shadow: 5px 5px 10px #000000;
 }
